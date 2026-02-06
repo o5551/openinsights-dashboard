@@ -63,6 +63,7 @@ OpenInsights/
 
 ---
 ### System Architecture
+![System Architecture](powerbi-db/archi.jpg)
 
 
 ## ⚙️ Installation & Setup
