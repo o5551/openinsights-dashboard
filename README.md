@@ -63,7 +63,7 @@ OpenInsights/
 
 ---
 ### System Architecture
-![System Architecture](C:\Users\OMKAR MORE\Desktop\OPENINSIGHTS PROJECT\powerbi-db\archi.jpg)
+
 
 ## ⚙️ Installation & Setup
 
