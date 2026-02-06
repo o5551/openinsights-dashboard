@@ -63,7 +63,7 @@ OpenInsights/
 
 ---
 ### System Architecture
-![System Architecture](archi.png)
+![System Architecture](archi.jpg)
 
 ## ⚙️ Installation & Setup
 
